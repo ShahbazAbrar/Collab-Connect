@@ -1,0 +1,38 @@
+Sent request to John Doe|2026-07-02 14:47|REQUEST|false|brand|ALL
+Collaboration request accepted by John Doe|2026-07-02 14:47|REQUEST|false|brand|ALL
+Sent request to John Doe|2026-07-02 14:47|REQUEST|false|brand|ALL
+Collaboration request accepted by John Doe|2026-07-02 14:47|REQUEST|false|brand|ALL
+John Doe completed task: Post a reel|2026-07-02 14:47|TASK|false|brand|ALL
+John Doe completed task: Post a story|2026-07-02 14:47|TASK|false|brand|ALL
+Sent request to John Doe|2026-07-02 14:47|REQUEST|false|brand|ALL
+Collaboration request accepted by John Doe|2026-07-02 14:47|REQUEST|false|brand|ALL
+Sent request to John Doe|2026-07-02 14:47|REQUEST|false|brand|ALL
+John Doe completed task: Post a story|2026-07-02 14:47|TASK|false|brand|ALL
+John Doe completed task: daily posting of the creartive|2026-07-02 14:47|TASK|false|brand|ALL
+John Doe completed task: make a reel|2026-07-02 14:47|TASK|false|brand|ALL
+Sent request to John Doe|2026-07-02 14:47|REQUEST|false|brand|ALL
+Sent request to John Doe|2026-07-02 14:47|REQUEST|false|brand|ALL
+Collaboration request accepted by John Doe|2026-07-02 14:47|REQUEST|false|brand|ALL
+Sent request to John Doe|2026-07-02 14:47|REQUEST|false|brand|ALL
+Collaboration request accepted by John Doe|2026-07-02 14:47|REQUEST|false|brand|ALL
+John Doe completed task: post a reel|2026-07-02 14:47|TASK|false|brand|ALL
+Task Completed|2026-07-02 14:47|TASK|false|influencer|Olivia White
+Accepted offer from Nike|2026-07-02 14:47|REQUEST|false|influencer|John Doe
+Task Completed|2026-07-02 14:47|TASK|false|influencer|John Doe
+Task Completed|2026-07-02 14:47|TASK|false|influencer|John Doe
+New collaboration request from Nike|2026-07-02 14:47|REQUEST|false|influencer|John Doe
+Accepted offer from Nike|2026-07-02 14:47|REQUEST|false|influencer|John Doe
+Task completed: Post a reel|2026-07-02 14:47|TASK|false|influencer|John Doe
+Task completed: Post a story|2026-07-02 14:47|TASK|false|influencer|John Doe
+New collaboration request from Nike|2026-07-02 14:47|REQUEST|false|influencer|John Doe
+Accepted offer from Nike|2026-07-02 14:47|REQUEST|false|influencer|John Doe
+New collaboration request from Nike|2026-07-02 14:47|REQUEST|false|influencer|John Doe
+Task completed: Post a story|2026-07-02 14:47|TASK|false|influencer|John Doe
+Task completed: daily posting of the creartive|2026-07-02 14:47|TASK|false|influencer|John Doe
+Task completed: make a reel|2026-07-02 14:47|TASK|false|influencer|John Doe
+New collaboration request from Nike|2026-07-02 14:47|REQUEST|false|influencer|John Doe
+New collaboration request from Nike|2026-07-02 14:47|REQUEST|false|influencer|John Doe
+Accepted offer from Nike|2026-07-02 14:47|REQUEST|false|influencer|John Doe
+New collaboration request from Nike|2026-07-02 14:47|REQUEST|false|influencer|John Doe
+Accepted offer from Nike|2026-07-02 14:47|REQUEST|false|influencer|John Doe
+Task completed: post a reel|2026-07-02 14:47|TASK|false|influencer|John Doe

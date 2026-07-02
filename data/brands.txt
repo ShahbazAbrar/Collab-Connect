@@ -1,0 +1,15 @@
+1|Nike|sports@nike.com|password123|Sports & Fitness
+2|Adidas|contact@adidas.com|password123|Sports & Fitness
+3|Puma|info@puma.com|password123|Sports & Fashion
+4|Sephora|marketing@sephora.com|password123|Beauty & Cosmetics
+5|Samsung|collab@samsung.com|password123|Technology
+6|Apple|partnerships@apple.com|password123|Technology
+7|Zara|brand@zara.com|password123|Fashion
+8|H&M|marketing@hm.com|password123|Fashion
+9|McDonald's|social@mcdonalds.com|password123|Food & Beverage
+10|Starbucks|influencer@starbucks.com|password123|Food & Beverage
+11|Airbnb|partnerships@airbnb.com|password123|Travel & Hospitality
+12|GoPro|marketing@gopro.com|password123|Technology & Adventure
+13|Lululemon|collab@lululemon.com|password123|Fitness & Lifestyle
+14|Glossier|team@glossier.com|password123|Beauty
+15|Tesla|social@tesla.com|password123|Technology & Automotive

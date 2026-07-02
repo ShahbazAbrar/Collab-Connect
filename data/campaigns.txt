@@ -1,0 +1,20 @@
+1|Summer Fitness Challenge|Nike|50000|Sarah Johnson|2025-01-15|true
+2|Spring Fashion Week|Adidas|75000|Emma Davis|2025-02-01|true
+3|Tech Innovation Series|Samsung|100000|John Smith|2025-01-20|true
+4|Beauty Glow Campaign|Sephora|60000|Maya Patel|2025-01-25|false
+5|Global Travel Stories|Airbnb|85000|Alex Martinez|2025-02-10|true
+6|Gaming Tournament Promo|GoPro|45000|Chris Wilson|2025-01-18|true
+7|Healthy Eating Initiative|McDonald's|55000|Lisa Anderson|2025-02-05|false
+8|Athleisure Collection|Lululemon|70000|David Brown|2025-01-22|true
+9|Test|Nike|5000|Sarah Johnson|2025-12-25|true
+10|gfgg|Nike|5000|Olivia White|2025-12-25|true
+11|hgjguk|Nike|5000|Olivia White|2025-12-25|true
+12|Test2|Nike|5000|Olivia White|2025-12-25|true
+13|Test3|Nike|5000|Olivia White|2025-12-25|true
+14|SS|Nike|5000|John Doe|2025-12-25|true
+15|Jole|Nike|5000|John Doe|2025-12-25|true
+16|cdshfewvfuvw|Nike|5000|John Doe|2025-12-29|true
+17||Nike|5000||2026-01-01|true
+18||Nike|5000||2026-01-03|true
+19||Nike|5000|John Doe|2026-01-05|true
+20||Nike|5000|John Doe|2026-01-05|true

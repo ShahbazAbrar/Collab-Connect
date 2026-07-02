@@ -1,0 +1,42 @@
+1|1|Create promotional video|true|2025-01-20
+1|2|Post on Instagram Stories|true|2025-01-22
+1|3|Share workout routine|true|2025-01-18
+2|1|Attend fashion show|false|2025-02-05
+2|2|Create lookbook photos|false|2025-02-08
+2|3|Post outfit inspiration|false|2025-02-10
+3|1|Unbox new Samsung device|true|2025-01-21
+3|2|Review features in video|false|2025-01-25
+3|3|Share tech tips|false|2025-01-28
+4|1|Test new makeup products|false|2025-01-26
+4|2|Create tutorial video|false|2025-01-30
+5|1|Share travel destination photos|true|2025-02-12
+5|2|Write blog post about experience|false|2025-02-15
+6|1|Stream gaming session|true|2025-01-19
+6|2|Create highlight reel|false|2025-01-23
+7|1|Share healthy recipe|false|2025-02-06
+7|2|Post nutritional tips|false|2025-02-08
+8|1|Model athleisure wear|false|2025-01-24
+8|2|Create fitness routine video|false|2025-01-27
+9|1|Post a story|true|
+9|2|Reels|true|
+10|1|Post a story|true|
+11|1|reels|true|
+11|2|and|true|
+13|1|Post a story|true|
+13|2|Reels|true|
+14|1|Post a story|true|
+14|2|Reels|true|
+15|1|Post a story|true|
+15|2|Post a reel|true|
+16|1|Post a story|true|
+16|2|make a reel|true|
+16|3|daily posting of the creartive|true|
+17|1|Post a story|false|
+18|1|Post a story|false|
+18|2|reel post|false|
+18|3|photoshoot|false|
+19|1|Post a story|false|
+19|2|post a reel|true|
+20|1|pOST A REEL|false|
+20|2|POST STORY|false|
+20|3|PHITOSHOOT|false|

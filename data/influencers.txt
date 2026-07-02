@@ -1,0 +1,2 @@
+10|Olivia White|DIY|25000|6.8|olivia.diy@email.com|pass
+4|John Doe|Fitness|30000|5.1|john.fit@email.com|pass
