@@ -1,0 +1,65 @@
+# ============================================
+# Qt / CMake build output
+# ============================================
+build/
+build-*/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build.ninja
+.ninja_deps
+.ninja_log
+compile_commands.json
+
+# ============================================
+# Qt Creator user-specific settings
+# ============================================
+*.user
+*.user.*
+*.autosave
+*.creator.user
+*.creator.user.*
+*.qtc_clangd
+.qtc_clangd/
+
+# ============================================
+# Compiled binaries and intermediate files
+# ============================================
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+*.obj
+*.o
+*.pdb
+*.idb
+*.ilk
+*.exp
+
+# ============================================
+# Qt-generated files
+# ============================================
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+
+# ============================================
+# Temporary / system / editor files
+# ============================================
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
